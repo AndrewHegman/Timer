@@ -1,7 +1,0 @@
-﻿  Timer.cpp
-c:\users\andrew\desktop\timer\timer\timer.h(27): error C2365: 'Timer::start': redefinition; previous definition was 'data member'
-  c:\users\andrew\desktop\timer\timer\timer.h(17): note: see declaration of 'Timer::start'
-c:\users\andrew\desktop\timer\timer\timer.h(28): error C2365: 'Timer::stop': redefinition; previous definition was 'data member'
-  c:\users\andrew\desktop\timer\timer\timer.h(16): note: see declaration of 'Timer::stop'
-c:\users\andrew\desktop\timer\timer\timer.cpp(14): error C2063: 'Timer::start': not a function
-c:\users\andrew\desktop\timer\timer\timer.cpp(21): error C2063: 'Timer::stop': not a function
